@@ -40,10 +40,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por 
 </table>
 
 ---
-<div align="center">
-  <img src="https://github.com/Andy-735/Andy-735/raw/output/github-contribution-grid-snake.svg" />
-</div>
----
 
 ### Minhas Estatísticas
 
