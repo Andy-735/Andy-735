@@ -36,4 +36,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por 
   <a href="https://www.linkedin.com/in/anderson--de--oliveira" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn do Anderson">
   </a>
+  <a href="mailto:anderson.a.oliveira08@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email do Anderson">
+  </a>
 </div>
