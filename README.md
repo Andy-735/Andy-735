@@ -27,3 +27,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andy-735&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
+
+---
+
+### 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anderson--de--oliveira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn do Anderson">
+  </a>
+</div>
