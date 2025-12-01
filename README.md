@@ -10,13 +10,34 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por 
 
 ### Linguagens e Ferramentas que estou estudando
 
-<div style="display: inline_block">
-  <img align="center" alt="Anderson-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Anderson-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Anderson-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Anderson-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Anderson-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/java/java-original.svg" width="50" height="50" />
+      <br><strong>Java</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" width="50" height="50" />
+      <br><strong> Python </strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" width="50" height="50" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/html5/html5-original.svg" width="50" height="50" />
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/css3/css3-original.svg" width="50" height="50" />
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg" width="50" height="50" />
+      <br><strong>Git</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -40,3 +61,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por 
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email do Anderson">
   </a>
 </div>
+
