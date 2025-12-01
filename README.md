@@ -22,6 +22,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por 
 
 ### 📊 Minhas Estatísticas
 
-![Anderson GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy-735&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Anderson Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-735&layout=compact&theme=dracula)
+<div align="center">
+  <a href="https://github.com/Andy-735">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andy-735&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
