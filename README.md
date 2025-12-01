@@ -1,14 +1,14 @@
-### Olá, eu sou o Anderson! 👋
+### Olá, eu sou o Anderson!
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por descobrir como as coisas funcionam. Atualmente focado em expandir meu conhecimento em diversas linguagens de programação.
 
-- 🎓 Cursando ADS
-- 💻 Sempre estudando novas sintaxes e lógica de programação
-- 🚀 Objetivo: Me tornar um desenvolvedor versátil e completo
+-  Cursando ADS
+-  Sempre estudando novas sintaxes e lógica de programação
+-  Objetivo: Me tornar um desenvolvedor versátil e completo
 
 ---
 
-### 🛠️ Linguagens e Ferramentas que estou estudando
+### Linguagens e Ferramentas que estou estudando
 
 <div style="display: inline_block">
   <img align="center" alt="Anderson-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -20,7 +20,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por 
 
 ---
 
-### 📊 Minhas Estatísticas
+### Minhas Estatísticas
 
 <div align="center">
   <a href="https://github.com/Andy-735">
@@ -30,7 +30,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por 
 
 ---
 
-### 📫 Contato
+### Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anderson--de--oliveira" target="_blank">
