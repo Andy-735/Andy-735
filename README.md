@@ -20,9 +20,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por 
 
 ---
 
-<div align="center">
-  <a href="https://github.com/Andy-735">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Andy-735&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-735&layout=compact&theme=dracula"/>
-  </a>
-</div>
+### 📊 Minhas Estatísticas
+
+![Anderson GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andy-735&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Anderson Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-735&layout=compact&theme=dracula)
