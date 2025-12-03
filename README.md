@@ -49,3 +49,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Andy-735&label=Visitantes&color=orange&style=flat" alt="Contador de Visitas" />
 </div>
+
+---
+
+
