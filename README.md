@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bem-vindo!&fontSize=70&fontAlign=50&fontAlignY=40&desc=Ao%20meu%20perfil&descAlign=50&descAlignY=60)
-### Olá, eu sou o Anderson!
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá,%20eu%20sou%20o%20Anderson!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlign=50&descAlignY=60)
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por descobrir como as coisas funcionam. Atualmente focado em expandir meu conhecimento em diversas linguagens de programação.
 
@@ -43,7 +42,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por 
   </a>
 </div>
 
---
+---
 
 ### Visitantes
-![Visitor Count](https://profile-counter.glitch.me/Andy-735/count.svg)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Andy-735&label=Visitantes&color=orange&style=flat" alt="Contador de Visitas" />
+</div>
