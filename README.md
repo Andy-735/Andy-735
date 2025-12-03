@@ -42,5 +42,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por 
   </a>
 </div>
 
----
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=30&text=Obrigado%20pela%20visita!)
