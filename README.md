@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bem-vindo!&fontSize=70&fontAlign=50&fontAlignY=40&desc=Ao%20meu%20perfil&descAlign=50&descAlignY=60)
 ### Olá, eu sou o Anderson!
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e um entusiasta por descobrir como as coisas funcionam. Atualmente focado em expandir meu conhecimento em diversas linguagens de programação.
